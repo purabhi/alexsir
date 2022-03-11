@@ -204,8 +204,8 @@ body {
   .img-head {
     width: 9em;
     height: 6em;
-    margin-left: -2em;
-    margin-top: -1em;
+    margin-left: -1em;
+    margin-top: 1em;
   }
   .icon{
     font-size: 2em;
